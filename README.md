@@ -3,3 +3,4 @@ In this project, my task was to develop an algorithm to classify images of dogs 
 
 
 ![github](https://user-images.githubusercontent.com/49407332/60592552-7f80b800-9dbe-11e9-9782-44ea7253af46.png)
+## The above image is of the dog in my locality it took that image for real time testing and the classifer is working pretty well!!!
